@@ -1,5 +1,7 @@
 # The Plan
 
+[PLAN.md](PLAN.md)
+
 ## The DOI 10.5281/zenodo.21503348
 
 This DOI represents all versions, 
