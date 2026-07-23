@@ -27,3 +27,14 @@
 - Ping Kimi - Iteration 1
 - Ping Ollama - Iteration 2
 - Ping NLnet - Iteration 1
+
+## Artifacts
+- Detention Papers
+- Videos
+- Soundtracks
+- Podcasts
+- Photos
+- Software
+  - Dada Production Studio
+  - Language tutors
+- Dictionary of Transcription Errors
