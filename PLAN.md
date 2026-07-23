@@ -9,7 +9,7 @@
 - Ping Dutch Chamber of Commerce (KVK) - Iteration 2
 - Ping Sesame Workshop - Iteration 3
 - Ping University of North Carolina (UNC) - Iteration 1
-- Ping NPPA - Iterarion 1
+- Ping NPPA - Iteration 1
 - Ping Corp-A - Iteration 2
 - Ping Corp-B - Iteration 3
 - Ping Zenodo - Iteration 2
@@ -26,3 +26,4 @@
 - Ping Qwen - Iteration 1
 - Ping Kimi - Iteration 1
 - Ping Ollama - Iteration 2
+- Ping NLnet - Iteration 1
